@@ -12,7 +12,7 @@ on:
 jobs:
 
   macos:
-    runs-on: macos-latest
+    runs-on: macos-11
     env:
       PACKAGENAME: bika_py37_macos_x86_64
     steps:
